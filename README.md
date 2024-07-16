@@ -20,19 +20,35 @@ Online tutorials are given here:
 
 https://github.com/mrkllntschpp/lammps-tutorials
 
-Code to generate nanoparticle cases from the [Bresme's group](https://github.com/bresmegroup)
+From the [Bresme's group](https://github.com/bresmegroup)
+
+Code to generate nanoparticle cases 
 
 https://github.com/bresmegroup/Atomistic_Nodal_Approach_Nanoparticles
+
+Code to integrate LAMMPS chunks
+
+https://github.com/bresmegroup/IntegrateProfile
 
 GROMACs cases
 -------------
 
-Please add here
+Code to simulate the BK3 water model from the [Sega group](https://github.com/Marcello-Sega)
+
+https://github.com/Marcello-Sega/BK3-water-model
+
+
+PLUMED case
+-----------
+
+The CmuMD method, which allows to mimic open boundary conditions in NVT molecular simulations involving solid/fluid interfaces, and enables the simulation of concentration-driven fluxes through porous membranes.
+
+https://github.com/mme-ucl/CmuMD
 
 General NEMD Tools
 ------------------
 
-Pytim is a cross platform tool to identify liquid-vapour interfaces in MD simulation written by the Sega group.
+Pytim is a cross platform tool to identify liquid-vapour interfaces in MD simulation written by the [Sega group](https://github.com/Marcello-Sega).
 
 https://github.com/Marcello-Sega/pytim
 
