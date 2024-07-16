@@ -9,19 +9,32 @@ LAMMPS cases
 -------------
 
 For LAMMPS, start with the examples here: 
+
 https://docs.lammps.org/Examples.html
 
 The NIST are good for equilibrium parameterisation:
+
 https://github.com/dwsideriusNIST/LAMMPS_Examples
 
 Online tutorials are given here:
+
 https://github.com/mrkllntschpp/lammps-tutorials
 
+Code to generate nanoparticle cases from the [Bresme's group](https://github.com/bresmegroup)
+
+https://github.com/bresmegroup/Atomistic_Nodal_Approach_Nanoparticles
 
 GROMACs cases
 -------------
 
 Please add here
+
+General NEMD Tools
+------------------
+
+Pytim is a cross platform tool to identify liquid-vapour interfaces in MD simulation written by the Sega group.
+
+https://github.com/Marcello-Sega/pytim
 
 Specific paper examples
 ------------------------
