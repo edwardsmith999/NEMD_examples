@@ -62,6 +62,16 @@ https://www.cambridge.org/download_file/954447
 
 Rapaport Code examples
 
+
+Forums for discussion
+-----------------------
+
+Not exclusively MD but useful for questions, etc
+
+https://mattermodeling.stackexchange.com/
+
+https://matsci.org/
+
 Specific paper examples
 ------------------------
 Here any published paper on NEMD which has input files can be added:
