@@ -56,6 +56,10 @@ A reproducable MD framework developed by Peter Cumming's group, designed to help
 
 https://github.com/mosdef-hub
 
+Tool to use the transient time corrleation function in LAMMPS
+
+https://github.com/edwardsmith999/TTCF4LAMMPS
+
 Example Code 
 ------------
 
