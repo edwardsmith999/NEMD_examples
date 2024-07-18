@@ -52,6 +52,9 @@ Pytim is a cross platform tool to identify liquid-vapour interfaces in MD simula
 
 https://github.com/Marcello-Sega/pytim
 
+A reproducable MD framework developed by Peter Cumming's group, designed to help build molecular systems,
+
+https://github.com/mosdef-hub
 
 Example Code 
 ------------
