@@ -1,6 +1,8 @@
 # Non Equilibrium Molecular Dynamics (NEMD) examples
 
-This repository is a community effort to collect example cases to help new researchers get started in non equilibrium molecular dynamics.
+This repository is a community effort, from the [UK Fluids Network special interest group (SIG)](https://fluids.ac.uk/sig/NonEqmMD) in non equilibrium molecular dynamics (NEMD), to collect example cases to help new researchers get started .
+
+
 This should include input files for open-source codes, both from simple teaching examples and newly published papers which include the input files. Initially this is a series of links to examples but could extend to include input files here.
 
 To add new cases, please edit this README.md and submit a pull request or email to edward.smith@brunel.ac.uk
